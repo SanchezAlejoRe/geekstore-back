@@ -1,0 +1,90 @@
+{
+    "products": [
+        {
+            "id": 1 ,
+            "nombre": "Izuku Midoriya - My Hero Academia",
+            "price": "$59.499",
+            "about": "De My Hero Academia viene un kit de modelo de fácil montaje que no requiere pegamento, pintura o incluso herramientas para montar"
+        },
+        {
+            "id": 2 ,
+            "nombre": "Stormtrooper (1/12) - Star Wars - Bandai",
+            "price": "$59.499",
+            "about": "¡Bandai agrega a los luchadores más peligrosos de la galaxia, los Stormtroopers, a su línea de model kit en escala 1/12!"
+        },
+        {
+            "id": 3 ,
+            "nombre": "Harry Potter Con Hedwig (qposket) - Banpresto",
+            "price": "$54.099",
+            "about": "Impresionante Estatua de la linea Harry Potter, original de Banpresto. Inspirada en el famoso universo de J.K. Rowling De unos 14cms de alto"
+        },
+        {
+            "id": 4 ,
+            "nombre": "Evangelion: Edición Deluxe Vol.01",
+            "price": "$5000",
+            "about": "Manga original de Yoshiyuki Sadamoto"
+        },
+        {
+            "id": 5 ,
+            "nombre": "Crisis En Tierras Infinitas Edición Deluxe - DC Esenciales",
+            "price": "$19200",
+            "about": "Formato: Tapa dura | 17x24 cm528 págs"
+        },
+        {
+            "id": 15 ,
+            "nombre": "Marvel Must Have Vol.01: Civil War",
+            "price": "$12000",
+            "about": "El Universo Marvel está cambiando. Es tiempo de elegir: ¿de qué lado estás?",
+            "picture": ""
+        },
+        {
+            "id": 16 ,
+            "nombre": "Flashpoint: Absoluto - DC Esenciales",
+            "price": "$8.100",
+            "about": "Corresponde a Flashpoint #1-5,Flashpoint: Reverse Flash y Flash #0"
+        },
+        {
+            "id": 17 ,
+            "nombre": "MY LITTLE MONSTER 01",
+            "price": "$6000",
+            "about": "¡La chica fría y el chico agresivo saldrán de sus zonas de confort e iniciarán una extraña relación!"
+        },
+        {
+            "id": 18 ,
+            "nombre": "LA NOCHE MAS OSCURA ",
+            "price": "$12000",
+            "about": "Autor:Geoff Johns - CONTIENE DETALLES EN TAPA Y LOMO QUE BRILLAN EN LA OSCURIDAD!Corresponde a DC Universe #0, Blackest Night #0-8, Green Lantern #43, Untold Tales of Blackest Night #1 y Batman #682-683."
+        },
+        {
+            "id": 19 ,
+            "nombre": "Mysterio - Impresion 3D",
+            "price": "$15000",
+            "about": "Altura 30CM"
+        },
+        {
+            "id": 20 ,
+            "nombre": "Miss Minutes - Impresion 3D ",
+            "price": "$8000",
+            "about": "altura 15CM"
+        },
+        {
+            "id": 21 ,
+            "nombre": "Iron Man - Impresion 3D",
+            "price": "$14000",
+            "about": "Altura 30CM"
+        },
+        {
+            "id": 22 ,
+            "nombre": "Chainsaw Man Vol.01",
+            "price": "$6000",
+            "about": "Tomo de aproximadamente 200 páginas.• Formato tankoubon con sobrecubierta."
+        },
+        {
+            "id": 23 ,
+            "nombre": "Broly - Impresion 3D",
+            "price": "$20000",
+            "about": "Altura 30CM"
+        }
+    ]
+
+}

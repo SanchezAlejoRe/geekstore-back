@@ -1,0 +1,36 @@
+###
+
+GET  http://localhost:3001/api/products HTTP/1.1
+
+
+###
+
+POST  http://localhost:3001/api/products HTTP/1.1
+Content-Type: application/json
+
+ { 
+  "product_name": "Dragon Ball Z: la resurrección de Freezer",
+  "product_price": "19.99",
+  "product_description": "Sorbet y Tagamo, antiguos miembros de élite del ejército de Freezer, llegan a la Tierra con la intención de utilizar las Bolas de Dragón para resucitar a su líder",
+  "id_categoria": 32,
+  "product_stock": 10
+}
+
+####
+
+DELETE  http://localhost:3001/api/products/177 HTTP/1.1
+
+####
+
+PUT http://localhost:3001/api/products/177 HTTP/1.1
+Content-Type: application/json
+
+ { 
+  "product_name": "Dragon Ball Super: la resurrección de Freezer",
+  "product_price": "19.99",
+  "product_description": "Sorbet y Tagamo, antiguos miembros de élite del ejército de Freezer, llegan a la Tierra con la intención de utilizar las Bolas de Dragón para resucitar a su líder",
+  "id_categoria": 32,
+  "product_stock": 9
+}
+
+
